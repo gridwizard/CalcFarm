@@ -1,0 +1,14 @@
+D:\tmp\Daiwa\CalcFarmNunitTest\bin\Debug\CalcFarmNunitTest.dll
+D:\tmp\Daiwa\CalcFarmNunitTest\bin\Debug\CalcFarmNunitTest.pdb
+D:\tmp\Daiwa\CalcFarmNunitTest\bin\Debug\nunit.framework.dll
+D:\tmp\Daiwa\CalcFarmNunitTest\bin\Debug\nunit.framework.xml
+D:\tmp\Daiwa\CalcFarmNunitTest\obj\Debug\CalcFarmNunitTest.csprojResolveAssemblyReference.cache
+D:\tmp\Daiwa\CalcFarmNunitTest\obj\Debug\CalcFarmNunitTest.dll
+D:\tmp\Daiwa\CalcFarmNunitTest\obj\Debug\CalcFarmNunitTest.pdb
+D:\tmp\CalcFarm\CalcFarmNunitTest\bin\Debug\CalcFarmNunitTest.dll
+D:\tmp\CalcFarm\CalcFarmNunitTest\bin\Debug\CalcFarmNunitTest.pdb
+D:\tmp\CalcFarm\CalcFarmNunitTest\bin\Debug\nunit.framework.dll
+D:\tmp\CalcFarm\CalcFarmNunitTest\bin\Debug\nunit.framework.xml
+D:\tmp\CalcFarm\CalcFarmNunitTest\obj\Debug\CalcFarmNunitTest.csprojResolveAssemblyReference.cache
+D:\tmp\CalcFarm\CalcFarmNunitTest\obj\Debug\CalcFarmNunitTest.dll
+D:\tmp\CalcFarm\CalcFarmNunitTest\obj\Debug\CalcFarmNunitTest.pdb
